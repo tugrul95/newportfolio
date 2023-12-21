@@ -1,0 +1,176 @@
+{
+  "main": {
+    "name": {
+        "first": "Tuğrul",
+        "last": "Gökbel"
+    },
+    "logo": true,
+    "titles": [
+        "Software developer.",
+        "Front end developer.",
+        "A man of duty."
+    ],
+    "headings": {
+      "about": "About",
+      "skills": "Skills",
+      "portfolio": "Portfolio",
+      "contact": "Contact"
+    }
+  },
+    "about": {
+      "bio": "</br>A passionate developer for creating responsive user interfaces. I worked for 20 months as a software developer at End Point Corp. I helped implementation of new features in VisionPort products and new design of Bluestone Perennials.</br></br> For more information you can take a look at my resume or contact with me.",
+      "tagline": "Pixel perfect responsive designs!",
+      "facts": [
+        {"name": "Hometown",
+        "value": "Aydın, Turkey"
+        },
+        {"name": "Expertise Area",
+        "value": "Front End Development"
+        },
+        {"name": "# of Projects",
+        "value": "5"
+        }
+      ]
+    },
+    "skills": {
+    "defaultCategory": "Front End Development",
+    
+    "categories": [
+      {
+        "category": "Front End Development",
+        "subtitle": "My true passion!",
+        "faClass": "fas fa-paint-brush",        
+        "skillList":[
+          {
+            "name": "TypeScript",
+            "level": "70"
+          },
+          {
+            "name": "JavaScript",
+            "level": "70"
+          },
+          
+          {
+            "name": "Vue",
+            "level": "80"
+          },
+          {
+            "name": "React",
+            "level": "60"
+          }
+        ]
+      },
+
+      {
+        "category": "Mobile Development",
+        "subtitle": "",
+        "faClass": "fas fa-chalkboard-teacher",        
+        "skillList":[
+          {
+            "name": "Swift",
+            "level": "60"
+          },
+          
+          {
+            "name": "Swiftuı",
+            "level": "60"
+          }
+        ]
+      }
+    ]
+  },
+"portfolio": {
+  "defaultFilter": "web",
+  "projects": [
+    {
+      "title": "E-commerce Shop",
+      "description": "React Project",
+      "image": "my-store.png",
+      "link": "https://my-store-ecommerce.netlify.app/",
+      "source": "",
+      "filter": "web"
+        },
+    {
+      "title": "VIP Clinic",
+      "description": "React Project",
+      "image": "vip-clinic.png",
+      "link": "https://vip-clinic.netlify.app/",
+      "source": "",
+      "filter": "web"
+    },
+    {
+      "title": "Scribble School",
+      "description": "React Project",
+      "image": "scribble-school.png",
+      "link": "https://scribble-school.netlify.app/",
+      "source": "",
+      "filter": "web"
+    },
+    {
+      "title": "Memory Game",
+      "description": "React Project",
+      "image": "memory-game.png",
+      "link": "https://beyin-egzersizi.netlify.app/",
+      "source": "",
+      "filter": "web"
+    },
+    {
+      "title": "Animals of Aftica",
+      "description": "IOS APP",
+      "image": "animals-of-africa.png",
+      "link": "https://github.com/tugrul95/SwiftUI-Animals-of-Africa",
+      "source": "https://github.com/tugrul95/SwiftUI-Animals-of-Africa",
+      "filter": "mobile"
+    },
+    {
+        "title": "Crypto FX APP",
+        "description": "IOS APP",
+        "image": "crypto-app.png",
+        "link": "https://github.com/tugrul95/Crypto-App.git",
+        "source": "https://github.com/tugrul95/Crypto-App.git",
+        "filter": "mobile"
+      },
+      {
+        "title": "Weather APP",
+        "description": "IOS APP",
+        "image": "weather-app.png",
+        "link": "https://github.com/tugrul95/SwiftUI-Weather-App.git",
+        "source": "https://github.com/tugrul95/SwiftUI-Weather-App.git",
+        "filter": "mobile"
+      }
+
+  ]
+},
+    "contact":{
+      "text": "You can reach me in working hours.",
+      "formTitle": "Send Me A Message",
+      "formEndPoint": "",
+      "city": "Aydın, Türkiye",
+      "email": "tugrul1995@gmail.com",
+      "phone": "+905343812676",
+      "resumeLink": "https://drive.google.com/file/d/1C3ceKI9CGjeuHJGKcZM2srejMkC8_J7H/view?usp=sharing",
+      "form": true,
+      
+      "social": [
+          {
+            "name": "twitter",
+            "url": "https://twitter.com/TurulGkbel",
+            "faClass": "fab fa-twitter"
+          },
+          {
+            "name": "facebook",
+            "url": "https://www.facebook.com/tugrul.gokbel/",
+            "faClass": "fab fa-facebook-f"
+          },
+          {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/in/tugrulgokbel/",
+            "faClass": "fab fa-linkedin"
+          }
+        ]
+      },
+  "footer": {
+    "copyrightText": "All Rights Reserved."
+  }
+
+}
