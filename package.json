@@ -26,8 +26,8 @@
     "@vue/cli-plugin-eslint": "^4.5.19",
     "@vue/cli-service": "^4.5.19",
     "babel-eslint": "^10.1.0",
-    "eslint": "8.55.0",
-    "eslint-plugin-vue": "7.30.0",
+    "eslint": "^8.55.0",
+    "eslint-plugin-vue": "^6.2.2",
     "vue-template-compiler": "^2.7.15"
   },
   "eslintConfig": {
