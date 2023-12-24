@@ -5,7 +5,7 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "serve": "vue-cli-service serve --host localhost --port 8080",
-        "build": "yarn run build",
+        "build": "npm run build",
         "lint": "vue-cli-service lint",
         "sass": "node-sass --watch src/styles/scss/main.scss -o src/styles/css"
     },
