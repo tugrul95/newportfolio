@@ -4,7 +4,7 @@
     "private": true,
     "scripts": {
         "serve": "vue-cli-service serve --host localhost --port 8080",
-        "build": "npm run build",
+        "build": "CI= npm run build",
         "lint": "vue-cli-service lint",
         "sass": "node-sass --watch src/styles/scss/main.scss -o src/styles/css"
     },
